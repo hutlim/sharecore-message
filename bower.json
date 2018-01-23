@@ -1,0 +1,29 @@
+{
+  "name": "sharecore-message",
+  "main": "./sharecore-message.min.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/hutlim/sharecore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Sharecoin Message Verification and Signing for Sharecore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "sharecoin",
+    "sharecore",
+    "ltc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
