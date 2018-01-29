@@ -1,6 +1,6 @@
 {
   "name": "sharecore-message",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Sharecoin Messages for Sharecore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
