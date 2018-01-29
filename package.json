@@ -23,7 +23,7 @@
     "url": "https://github.com/hutlim/sharecore-message.git"
   },
   "dependencies": {
-    "sharecore-lib": "^0.13.22"
+    "sharecore-lib": "^0.13.21"
   },
   "devDependencies": {
     "sharecore-build": "sharecoin-project/sharecore-build",
